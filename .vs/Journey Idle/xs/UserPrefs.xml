@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{F56AD619-9584-A29B-71B7-B8CE8A2DF964}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI/Revive.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DataManager.cs" Line="10" Column="21" />
+      <File FileName="Assets/Scripts/CombatManager.cs" Line="73" Column="33" />
+      <File FileName="Assets/Scripts/EnemySpawnManager.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/EnemyTypeManager.cs" Line="38" Column="2" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" Line="37" Column="21" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="70" Column="5" />
+      <File FileName="Assets/Scripts/UI/Revive.cs" Line="7" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Journey_220Idle PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
